@@ -1,8 +1,8 @@
 /- 👋 Hi, I’m @KirranKumar18
 - 👀 I’m interested in building projects.
-- 🌱 I’m currently learning java,SQL.
+- 🌱 I’m currently learning java,ReactJS.
 - 💞️ I’m looking to collaborate on projects based on both software and electrical.
-- 📫 How to reach me dm me.
+- 📫 How to reach me? dm me.
 - 😄 Pronouns: call me by my name.
 
 
