@@ -1,5 +1,5 @@
 /- 👋 Hi, I’m @KirranKumar18
-- Working on a Social Media that connects students in ths collage LAB sessions 
+- Working on a Social Media🌐 that connects students in ths collage LAB sessions 
 - 👀 I’m interested in building projects.
 - 🌱 I’m currently learning java,ReactJS.
 - 💞️ I’m looking to collaborate on projects based on both software and electrical.
