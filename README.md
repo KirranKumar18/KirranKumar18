@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kirran
 
-🎓 Computer Science Student  
+🎓 <h1>Computer Science Student<h1/>  
 💡 Interested in Web & Mobile Development  
 🚀 Always learning and building projects
 
