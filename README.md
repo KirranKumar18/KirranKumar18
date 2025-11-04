@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hello, I'm S N Kirran Kumar</h1>
 
 <p align="center">
-B.Tech CSE @ Presidency University • MERN Stack Developer • Web Dev Enthusiast
+B.Tech CSE @ Presidency University • MERN Stack Developer
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Apps;Turning+Ideas+Into+Projects" />
 </p>
 
 <p align="center">
@@ -12,18 +16,17 @@ B.Tech CSE @ Presidency University • MERN Stack Developer • Web Dev Enthusia
 
 ---
 
-I am a Computer Science student at **Presidency University**, passionate about building full-stack web applications.  
-I love creating real-world MERN stack projects and learning how frontend, backend, and databases work together.  
-
-I enjoy taking ideas from scratch and turning them into clean, functional digital products.
-
+I am a Computer Science student passionate about building real-world web applications using the **MERN stack**.  
+I enjoy creating smooth UI, scalable backend systems, and connecting everything into functional products.
 
 ---
 
-### 📦 Repository Cards
+### 📦 Repository Highlights
 
-[![Quorum](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=Quorum)](https://github.com/KirranKumar18/Quorum)
-[![KBB](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=KBB)](https://github.com/KirranKumar18/KBB)
+[![Quorum](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=Quorum&theme=tokyonight)](https://github.com/KirranKumar18/Quorum)
+[![KBB](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=KBB&theme=tokyonight)](https://github.com/KirranKumar18/KBB)
+
+> If QUORUM fails again, GitHub prefers exact case. Replace repo=Quorum with repo=QUORUM if needed.
 
 ---
 
@@ -52,18 +55,25 @@ I enjoy taking ideas from scratch and turning them into clean, functional digita
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KirranKumar18" alt="GitHub Streak" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KirranKumar18&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KirranKumar18&show_icons=true&theme=default" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirranKumar18&layout=compact" height="150"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KirranKumar18&show_icons=true&theme=tokyonight&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirranKumar18&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ### 🤝 Connect With Me
-Always happy to collaborate, learn from others, and build 👨‍💻🔥  
-Let's create something exciting together.
+Always open to collaborations, ideas, and building cool things together 🚀
 
 ---
