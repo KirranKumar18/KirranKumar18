@@ -12,12 +12,21 @@ B.Tech CSE @ Presidency University • MERN Stack Developer • Web Dev Enthusia
 
 ---
 
-I'm a Computer Science student at **Presidency University**, deeply interested in building modern web applications.  
-My main focus is the **MERN stack**, where I love connecting frontend UI, backend APIs, and databases to create real, usable products.  
+I am a Computer Science student at **Presidency University**, passionate about building full-stack web applications.  
+I love creating real-world MERN stack projects and learning how frontend, backend, and databases work together.  
 
-I enjoy experimenting, building from scratch, and learning how systems work behind the scenes. Every project helps me grow one step further.
+I enjoy taking ideas from scratch and turning them into clean, functional digital products.
+
 
 ---
+
+### 📦 Repository Cards
+
+[![Quorum](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=Quorum)](https://github.com/KirranKumar18/Quorum)
+[![KBB](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=KBB)](https://github.com/KirranKumar18/KBB)
+
+---
+
 ### 🛠 Tech Stack
 
 #### 💻 Languages
@@ -38,45 +47,23 @@ I enjoy experimenting, building from scratch, and learning how systems work behi
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KirranKumar18" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KirranKumar18&show_icons=true&theme=default" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirranKumar18&layout=compact" height="150"/>
+</p>
 
 ---
 
-### 🚀 Featured Projects
-
-#### 📱 QUORUM  
-A real-time chat platform supporting text and image sharing  
-Similar concept to Instagram messaging  
-**Tech:** React, Node.js, Express, MongoDB, Socket.io
-
-#### 🏭 KBB – Business Website  
-Website for a water bottle manufacturing company  
-Users can view services and place orders online  
-**Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
-
----
-### 📦 Featured Repositories
-
-[![Quorum](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=Quorum)](https://github.com/KirranKumar18/Quorum)
-[![KBB](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=KBB)](https://github.com/KirranKumar18/KBB)
-
-
-
----
-### 🎯 Interests
-- Full-stack Web Development (MERN)
-- Scalable backend systems & APIs
-- Clean and modern UI design
-- Improving problem-solving skills 🧠
-
-### 🌱 Currently Learning
-- Advanced backend concepts
-- Scalable architecture and deployment
-- UI/UX improvements & responsive design
-
----
-
-### 🤝 Let's Connect
-I enjoy meeting fellow developers, learning together, and building useful things.  
-Feel free to reach out if you're working on exciting projects or exploring MERN like me.
+### 🤝 Connect With Me
+Always happy to collaborate, learn from others, and build 👨‍💻🔥  
+Let's create something exciting together.
 
 ---
