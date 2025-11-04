@@ -1,13 +1,22 @@
-/- 👋 Hi, I’m @KirranKumar18
-- Working on a Social Media🌐 [QUORUM]that connects students in ths collage LAB sessions.
-- 👀 I’m interested in building projects.
-- 🌱 I’m currently learning java,ReactJS.
-- 💞️ I’m looking to collaborate on projects based on both software and electrical.
-- 📫 How to reach me? dm me.
-- 😄 Pronouns: call me by my name.
+# 👋 Hello, I'm Kirran
 
+🎓 Computer Science Student  
+💡 Interested in Web & Mobile Development  
+🚀 Always learning and building projects
 
-<!---
-KirranKumar18/KirranKumar18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠 Tech Stack
+**Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend:**  
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
