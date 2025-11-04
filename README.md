@@ -1,72 +1,77 @@
-<h1 align="center">👋 Hello, I'm Kirran</h1>
+<h1 align="center">👋 Hello, I'm S N Kirran Kumar</h1>
 
 <p align="center">
-B.Tech CSE • MERN Stack Developer • Web Dev Enthusiast
+B.Tech CSE @ Presidency University • MERN Stack Developer • Web Dev Enthusiast
 </p>
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
-I'm a CSE student at **Presidency University**, passionate about building modern and scalable web applications.  
-My core interest lies in the **MERN stack**, and I enjoy turning real ideas into real products.
+I'm a Computer Science student at **Presidency University**, deeply interested in building modern web applications.  
+My main focus is the **MERN stack**, where I love connecting frontend UI, backend APIs, and databases to create real, usable products.  
 
-I like understanding how systems work end-to-end — frontend design, backend logic, APIs, and databases.  
-Every project is a chance to learn something new, and I chase that improvement every day.
+I enjoy experimenting, building from scratch, and learning how systems work behind the scenes. Every project helps me grow one step further.
 
 ---
 
 ### 🎯 Interests
-- Building MERN projects that solve real problems
-- Learning backend systems & API design
-- Exploring UI/UX and clean web layouts
-- Practicing DSA to sharpen thinking 💡
+- Full-stack Web Development (MERN)
+- Scalable backend systems & APIs
+- Clean and modern UI design
+- Improving problem-solving skills 🧠
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 📱 QUORUM  
-A real-time chat web app with message & image sharing  
-Inspired by modern social platforms like Instagram  
-Tech: React, Node, Express, MongoDB, Socket.io
+A real-time chat platform supporting text and image sharing  
+Similar concept to Instagram messaging  
+**Tech:** React, Node.js, Express, MongoDB, Socket.io
 
-#### 🏢 KBB – Corporate Website  
-Website for a water-bottle manufacturing company  
-Includes product browsing & order placement features  
-Tech: HTML, CSS, JS, Node, MongoDB
+#### 🏭 KBB – Business Website  
+Website for a water bottle manufacturing company  
+Users can view services and place orders online  
+**Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages**
-> Java • JavaScript • C  
+#### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
-> HTML • CSS • ReactJS
+#### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend**
-> NodeJS • ExpressJS
+#### ⚙ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Database**
-> MongoDB • SQL
+#### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced Backend Concepts  
-- Scalable System Design  
-- Modern UI & performance optimization  
+- Advanced backend concepts
+- Scalable architecture and deployment
+- UI/UX improvements & responsive design
 
 ---
 
-### 🤝 Let's Connect  
-I love talking to developers, sharing ideas, and building together.  
-If you're working on something exciting or learning MERN like me, let's connect!
+### 🤝 Let's Connect
+I enjoy meeting fellow developers, learning together, and building useful things.  
+Feel free to reach out if you're working on exciting projects or exploring MERN like me.
 
 ---
