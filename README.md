@@ -1,22 +1,72 @@
-# 👋 Hello, I'm Kirran
+<h1 align="center">👋 Hello, I'm Kirran</h1>
 
-🎓 <h1>Computer Science Student<h1/>  
-💡 Interested in Web & Mobile Development  
-🚀 Always learning and building projects
+<p align="center">
+B.Tech CSE • MERN Stack Developer • Web Dev Enthusiast
+</p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel"></a>
+</p>
+
+---
+
+I'm a CSE student at **Presidency University**, passionate about building modern and scalable web applications.  
+My core interest lies in the **MERN stack**, and I enjoy turning real ideas into real products.
+
+I like understanding how systems work end-to-end — frontend design, backend logic, APIs, and databases.  
+Every project is a chance to learn something new, and I chase that improvement every day.
+
+---
+
+### 🎯 Interests
+- Building MERN projects that solve real problems
+- Learning backend systems & API design
+- Exploring UI/UX and clean web layouts
+- Practicing DSA to sharpen thinking 💡
+
+---
+
+### 🚀 Featured Projects
+
+#### 📱 QUORUM  
+A real-time chat web app with message & image sharing  
+Inspired by modern social platforms like Instagram  
+Tech: React, Node, Express, MongoDB, Socket.io
+
+#### 🏢 KBB – Corporate Website  
+Website for a water-bottle manufacturing company  
+Includes product browsing & order placement features  
+Tech: HTML, CSS, JS, Node, MongoDB
 
 ---
 
 ### 🛠 Tech Stack
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Languages**
+> Java • JavaScript • C  
 
-**Backend:**  
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+**Frontend**
+> HTML • CSS • ReactJS
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend**
+> NodeJS • ExpressJS
+
+**Database**
+> MongoDB • SQL
+
+---
+
+### 🌱 Currently Learning
+- Advanced Backend Concepts  
+- Scalable System Design  
+- Modern UI & performance optimization  
+
+---
+
+### 🤝 Let's Connect  
+I love talking to developers, sharing ideas, and building together.  
+If you're working on something exciting or learning MERN like me, let's connect!
+
+---
