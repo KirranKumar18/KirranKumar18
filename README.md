@@ -54,9 +54,7 @@ I enjoy creating smooth UI, scalable backend systems, and connecting everything 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KirranKumar18&theme=tokyonight" />
-</p>
+
 
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=KirranKumar18&show_icons=true&theme=tokyonight&rank_icon=github" />
