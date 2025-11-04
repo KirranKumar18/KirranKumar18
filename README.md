@@ -18,29 +18,6 @@ My main focus is the **MERN stack**, where I love connecting frontend UI, backen
 I enjoy experimenting, building from scratch, and learning how systems work behind the scenes. Every project helps me grow one step further.
 
 ---
-
-### 🎯 Interests
-- Full-stack Web Development (MERN)
-- Scalable backend systems & APIs
-- Clean and modern UI design
-- Improving problem-solving skills 🧠
-
----
-
-### 🚀 Featured Projects
-
-#### 📱 QUORUM  
-A real-time chat platform supporting text and image sharing  
-Similar concept to Instagram messaging  
-**Tech:** React, Node.js, Express, MongoDB, Socket.io
-
-#### 🏭 KBB – Business Website  
-Website for a water bottle manufacturing company  
-Users can view services and place orders online  
-**Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
-
----
-
 ### 🛠 Tech Stack
 
 #### 💻 Languages
@@ -61,7 +38,31 @@ Users can view services and place orders online
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 ---
+
+### 🚀 Featured Projects
+
+#### 📱 QUORUM  
+A real-time chat platform supporting text and image sharing  
+Similar concept to Instagram messaging  
+**Tech:** React, Node.js, Express, MongoDB, Socket.io
+
+#### 🏭 KBB – Business Website  
+Website for a water bottle manufacturing company  
+Users can view services and place orders online  
+**Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
+
+---
+
+
+
+---
+### 🎯 Interests
+- Full-stack Web Development (MERN)
+- Scalable backend systems & APIs
+- Clean and modern UI design
+- Improving problem-solving skills 🧠
 
 ### 🌱 Currently Learning
 - Advanced backend concepts
