@@ -54,6 +54,10 @@ Users can view services and place orders online
 **Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
 
 ---
+### 📦 Featured Repositories
+
+[![Quorum](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=Quorum)](https://github.com/KirranKumar18/Quorum)
+[![KBB](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=KBB)](https://github.com/KirranKumar18/KBB)
 
 
 
