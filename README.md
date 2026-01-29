@@ -26,7 +26,7 @@ I enjoy creating smooth UI, scalable backend systems, and connecting everything 
 [![Quorum](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=Quorum&theme=tokyonight)](https://github.com/KirranKumar18/Quorum)
 [![KBB](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=KBB&theme=tokyonight)](https://github.com/KirranKumar18/KBB)
 
-> If QUORUM fails again, GitHub prefers exact case. Replace repo=Quorum with repo=QUORUM if needed.
+
 
 ---
 
@@ -72,6 +72,6 @@ I enjoy creating smooth UI, scalable backend systems, and connecting everything 
 ---
 
 ### 🤝 Connect With Me
-Always open to collaborations, ideas, and building cool things together 🚀
+Always open to collaborations, ideas, and building cool things together 
 
 ---
