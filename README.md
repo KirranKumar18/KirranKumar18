@@ -5,7 +5,7 @@ B.Tech CSE @ Presidency University • MERN Stack Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Apps;Turning+Ideas+Into+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Apps;Turning+Ideas+Into+Projects" />
 </p>
 
 <p align="center">
@@ -16,62 +16,61 @@ B.Tech CSE @ Presidency University • MERN Stack Developer
 
 ---
 
+## 👨‍💻 About Me
+
 I am a Computer Science student passionate about building real-world web applications using the **MERN stack**.  
-I enjoy creating smooth UI, scalable backend systems, and connecting everything into functional products.
+I enjoy creating smooth user interfaces, scalable backend systems, and turning ideas into working products.
 
 ---
 
-### 📦 Repository Highlights
+## 📦 Repository Highlights
 
-[![Quorum](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=Quorum&theme=tokyonight)](https://github.com/KirranKumar18/Quorum)
-[![KBB](https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=KBB&theme=tokyonight)](https://github.com/KirranKumar18/KBB)
+<p align="center">
+<a href="https://github.com/KirranKumar18/Quorum">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=Quorum&theme=tokyonight&cache_seconds=1800&hide_border=true" />
+</a>
 
-
+<a href="https://github.com/KirranKumar18/KBB">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=KBB&theme=tokyonight&cache_seconds=1800&hide_border=true" />
+</a>
+</p>
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-#### 💻 Languages
+### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🌐 Frontend
+### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### ⚙ Backend
+### ⚙ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### 🗄 Databases
+### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-
-
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KirranKumar18&show_icons=true&theme=tokyonight&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirranKumar18&layout=compact&theme=tokyonight" />
+<img height="160"
+src="https://github-readme-stats.vercel.app/api?username=KirranKumar18&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&hide_border=true" />
+
+<img height="160"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirranKumar18&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 Contribution Animation
+## 🤝 Connect With Me
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🤝 Connect With Me
-Always open to collaborations, ideas, and building cool things together 
-
----
+Always open to collaborations, learning, and building cool things together 🚀
