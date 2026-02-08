@@ -31,7 +31,7 @@ I enjoy creating smooth user interfaces, scalable backend systems, and turning i
 </a>
 
 <a href="https://github.com/KirranKumar18/KBB">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=KBB&theme=tokyonight&cache_seconds=1800&hide_border=true" />
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=KirranKumar18&repo=KBB&theme=tokyonight&cache_seconds=1800&hide_border=true](https://picsum.photos/200/300)" />
 </a>
 </p>
 
