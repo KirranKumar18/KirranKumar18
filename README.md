@@ -59,17 +59,7 @@ I enjoy creating smooth user interfaces, scalable backend systems, and turning i
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img height="160"
-src="https://github-readme-stats.vercel.app/api?username=KirranKumar18&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&hide_border=true" />
-
-<img height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirranKumar18&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
