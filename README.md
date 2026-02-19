@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm S N Kirran Kumar</h1>
 
 <p align="center">
-B.Tech CSE @ Presidency University • MERN Stack Developer
+B.Tech CSE @ Presidency University  MERN Stack Developer
 </p>
 
 <p align="center">
